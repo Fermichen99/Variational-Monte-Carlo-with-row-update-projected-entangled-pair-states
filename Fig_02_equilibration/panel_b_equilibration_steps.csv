@@ -1,0 +1,13 @@
+L,method,equilibration_step
+4,Metropolis,1
+4,Row-Update,1
+4,Hybrid,1
+6,Metropolis,4
+6,Row-Update,3
+6,Hybrid,2
+8,Metropolis,17
+8,Row-Update,4
+8,Hybrid,3
+10,Metropolis,73
+10,Row-Update,23
+10,Hybrid,9
